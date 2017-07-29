@@ -25,7 +25,7 @@
     <p>The DCC4PC hardware is a combined block occupancy detector and RailComm reader built into one. 
     each board allows for up to 16 blocks to be detected with RailComm feedback on each.
     <p>To get the full potential of RailCom this must be used with a system that generates a RailComm cutout in 
-    the track signal, along with decoders that support RailComm feedback
+    the track signal, along with decoders that support RailComm feedback.
     
       <h1>Hardware Support: DCC4PC</h1><a name="hardware" id=
       "hardware"></a>
